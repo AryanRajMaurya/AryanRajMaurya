@@ -65,8 +65,6 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 | **[Custom Mail](#)** | Verbal Mail Server | Coming Soon |
 
 ---
-
-### 🧪 Visual Intelligence
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Mnp4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx8G3p6dPi/giphy.gif" width="400" />
   <br/>
@@ -103,7 +101,6 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanRajMaurya&theme=tokyonight" width="100%" />
 </p>
 
----
 
 ### 🤝 Connect
 - **Discord**: `@izgiv`
@@ -117,6 +114,15 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
   <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
 </picture>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
 
 <p align="center">
   <i>"Designing the intelligence that designs the future."</i>
