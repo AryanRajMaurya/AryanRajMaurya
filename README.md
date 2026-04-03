@@ -24,9 +24,9 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,electron,nodejs,flask,mongodb,redis,docker,vercel,aws,linux,git,vscode" />
 </p>
 
-- **AI/ML**: YOLOv11, LiveKit, Edge TTS, n8n Automation, LangChain.
+- **AI/ML**: YOLOv11, LiveKit, Edge TTS, n8n Automation, LangChain, RAG.
 - **Media**: FFmpeg, MoviePy, Librosa, WebRTC.
-- **Environment**: CachyOS + Hyprland (The Caelestia Rice).
+- **Environment**: CachyOS + Hyprland (The Caelestia Rice) LINUX // WIN .
 
 ---
 
@@ -53,7 +53,34 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 
 ---
 
-### 📈 Real-Time Intelligence
+### 🎼 The Multiverse Vibe
+<p align="center">
+  <iframe src="https://open.spotify.com/embed/track/4uLU6hMCxmIqC3pfrJZbpZ" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</p>
+
+---
+
+### 🧪 Visual Intelligence
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Mnp4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx8G3p6dPi/giphy.gif" width="400" />
+  <br/>
+  <svg width="200" height="200" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="40" stroke="#4f46e5" stroke-width="2" fill="transparent">
+      <animate attributeName="r" values="30;45;30" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="50" cy="50" r="20" stroke="#818cf8" stroke-width="4" fill="transparent">
+      <animate attributeName="r" values="15;25;15" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <path d="M50 30 L50 70 M30 50 L70 50" stroke="#c7d2fe" stroke-width="1" opacity="0.3">
+      <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="10s" repeatCount="indefinite" />
+    </path>
+  </svg>
+</p>
+
+---
+
+### 📊 Real-Time Intelligence
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AryanRajMaurya&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRajMaurya&layout=compact&theme=tokyonight" width="48%" />
@@ -66,7 +93,7 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 ---
 
 ### 🤝 Connect
-- **Discord**: `-izgiv`
+- **Discord**: `@izgiv`
 - **Official GC**: [Join the Izgiv Community](https://discord.gg/T2uZnVfQPw)
 - **Profile Visits**: <img src="https://komarev.com/ghpvc/?username=AryanRajMaurya&color=blueviolet&style=flat-square" align="center" />
 
