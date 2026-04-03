@@ -53,13 +53,6 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 
 ---
 
-### 🎼 The Multiverse Vibe
-<p align="center">
-  <iframe src="https://open.spotify.com/embed/track/4uLU6hMCxmIqC3pfrJZbpZ" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
-
----
-
 ### 🧪 Visual Intelligence
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Mnp4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx8G3p6dPi/giphy.gif" width="400" />
@@ -96,6 +89,14 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 - **Discord**: `@izgiv`
 - **Official GC**: [Join the Izgiv Community](https://discord.gg/T2uZnVfQPw)
 - **Profile Visits**: <img src="https://komarev.com/ghpvc/?username=AryanRajMaurya&color=blueviolet&style=flat-square" align="center" />
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+</picture>
 
 <p align="center">
   <i>"Designing the intelligence that designs the future."</i>
