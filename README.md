@@ -1,7 +1,20 @@
-# <p align="center">🛡️ ARYAN RAJ MAURYA</p>
+# <p align="center"> ARYAN RAJ MAURYA</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=BUILDER-INTEGRATOR%20HYBRID&fontSize=50&animation=fadeIn&fontAlignY=50" />
-</p>
+  <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#4f46e5;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#818cf8;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="800" height="200" rx="40" fill="url(#grad1)" opacity="0.1" />
+    <text x="50%" y="55%" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="white" font-style="italic" letter-spacing="2">
+      BUILDER-INTEGRATOR HYBRID
+    </text>
+    <text x="50%" y="75%" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" opacity="0.4" letter-spacing="8">
+      IZGIV MULTIVERSE ARCHITECT
+    </text>
+  </svg>
 
 <p align="center">
   <a href="https://github.com/AryanRajMaurya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -75,8 +88,8 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 
 ### 📊 Real-Time Intelligence
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanRajMaurya&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRajMaurya&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanRajMaurya&show_icons=true&theme=omni&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRajMaurya&layout=compact&theme=omni" width="48%" />
 </p>
 
 <p align="center">
