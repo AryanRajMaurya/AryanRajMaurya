@@ -88,8 +88,9 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 
 ### 📊 Real-Time Intelligence
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanRajMaurya&show_icons=true&theme=omni&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRajMaurya&layout=compact&theme=omni" width="48%" />
+  <img src="https://img.shields.io/github/stars/AryanRajMaurya?style=for-the-badge&logo=github&color=4f46e5" />
+  <img src="https://img.shields.io/github/followers/AryanRajMaurya?style=for-the-badge&logo=github&color=818cf8" />
+  <img src="https://img.shields.io/github/commit-activity/y/AryanRajMaurya?style=for-the-badge&logo=github&color=c7d2fe" />
 </p>
 
 <p align="center">
