@@ -64,7 +64,7 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 | **[Moody Manager](#)** | AI Mood Analysis | Legacy |
 | **[Custom Mail](#)** | Verbal Mail Server | Coming Soon |
 
----
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Mnp4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx8G3p6dPi/giphy.gif" width="400" />
   <br/>
@@ -90,7 +90,7 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 
 ---
 
-### 📊 Real-Time Intelligence
+### 📊 SO Far...(Not GUD)
 <p align="center">
   <img src="https://img.shields.io/github/stars/AryanRajMaurya?style=for-the-badge&logo=github&color=4f46e5" />
   <img src="https://img.shields.io/github/followers/AryanRajMaurya?style=for-the-badge&logo=github&color=818cf8" />
@@ -100,7 +100,8 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanRajMaurya&theme=tokyonight" width="100%" />
 </p>
-
+---
+---
 
 ### 🤝 Connect
 - **Discord**: `@izgiv`
@@ -121,8 +122,6 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 <p align="center">
   <i>"Designing the intelligence that designs the future."</i>
