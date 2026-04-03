@@ -84,6 +84,12 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
   </svg>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.gif" width="100%" />
+  <br/>
+  <img src="https://github.com/clarksmalt/clarksmalt/raw/master/hero.gif" width="400" />
+</p>
+
 ---
 
 ### 📊 Real-Time Intelligence
