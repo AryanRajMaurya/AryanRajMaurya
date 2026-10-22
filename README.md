@@ -23,6 +23,9 @@
   <a href="https://github.com/AryanRajMaurya/shipfree"><img src="https://img.shields.io/badge/shipfree-4f46e5?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/aryanrajmauryavanshi"><img src="https://img.shields.io/badge/@aryanrajmauryavanshi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:aryanrajmauryavanshi@gmail.com"><img src="https://img.shields.io/badge/email-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@theizgiv"><img src="https://img.shields.io/badge/YouTube-@TheIZGIV-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/theizgiv/"><img src="https://img.shields.io/badge/Instagram-@TheIZGIV-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/theizgiv"><img src="https://img.shields.io/badge/Facebook-@TheIZGIV-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://discord.gg/T2uZnVfQPw"><img src="https://img.shields.io/badge/izgiv-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
@@ -77,6 +80,7 @@ each one ships.
 | Node | Focus | Status |
 | :--- | :--- | :--- |
 | **shipfree** | Agent Skill for zero-cost AI deployment | **Live** |
+| **@TheIZGIV** | Autonomous content agent — writes, edits and publishes to YouTube, Instagram and Facebook | **Live** |
 | **friday** | Agentic voice assistant, RAG-backed memory | Under remake |
 | **llama** | Self-hosted LLM API hosting | Under remake |
 | **groq** | Groq/Llama chat panel, paid access | Under remake |
@@ -115,7 +119,7 @@ Everything else in the ecosystem is being rebuilt node by node.
 - **AI/ML**: PyTorch, YOLOv8/v11, OpenCV, BLIP-2, coordinate attention, Albumentations
 - **Agents**: Model Context Protocol, LiveKit, Gemini Live, LangChain, RAG, Mem0, Chroma, n8n, MCP tool execution
 - **Realtime**: WebRTC, WebSockets, Durable Objects, streaming inference, 10-band WebAudio EQ
-- **Media**: FFmpeg, MoviePy, Librosa, Edge-TTS, beat-synchronous editing
+- **Media**: FFmpeg, MoviePy, Librosa, Edge-TTS, beat-synchronous editing, autonomous publishing agents
 - **Edge & infra**: Cloudflare Workers, D1, KV, R2, Queues, Durable Objects, Docker, Wrangler, Vercel
 - **Languages**: Python, TypeScript, JavaScript, SQL, C/C++, HTML/CSS
 - **Environment**: CachyOS/Arch + Hyprland, Linux // Windows
@@ -140,6 +144,13 @@ Everything else in the ecosystem is being rebuilt node by node.
 - **Email**: [aryanrajmauryavanshi@gmail.com](mailto:aryanrajmauryavanshi@gmail.com)
 - **Discord**: `@izgiv` — [join the community](https://discord.gg/T2uZnVfQPw)
 - **Profile visits**: <img src="https://komarev.com/ghpvc/?username=AryanRajMaurya&color=blueviolet&style=flat-square" align="center" />
+
+**[@TheIZGIV](https://www.youtube.com/@theizgiv)** is where the autoposter lives — an
+autonomous content agent that writes, edits and publishes to YouTube,
+Instagram and Facebook on its own.
+- **YouTube**: [@TheIZGIV](https://www.youtube.com/@theizgiv)
+- **Instagram**: [@TheIZGIV](https://www.instagram.com/theizgiv/)
+- **Facebook**: [@TheIZGIV](https://www.facebook.com/theizgiv)
 
 ---
 
