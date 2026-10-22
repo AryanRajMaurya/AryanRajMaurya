@@ -100,11 +100,10 @@ tiers are a different shape, and knowing the shape is the whole game.
 
 ### 📦 Open source
 
-| Project | What it is |
-| --- | --- |
-| **[`shipfree`](https://github.com/AryanRajMaurya/shipfree)** | Agent Skill for deploying AI services on free tiers, with machine-verified limits |
-| **[`plancks-constant-iitk`](https://github.com/AryanRajMaurya/plancks-constant-iitk)** | Planck's constant determination simulation for IIT Kanpur's Virtual Labs — a browser-based wire-drawing engine with sub-10 ms client-side calculation, deployed to a platform serving 50,000+ students |
-| **[`TheIZGIV`](https://github.com/AryanRajMaurya/TheIZGIV)** | Open-source Electron desktop music player (Apache 2.0): sidecar audio bridge, Gemini-generated playlists, 10-band EQ |
+<!-- live:begin -->
+<!-- live:end -->
+
+Everything else in the ecosystem is being rebuilt node by node.
 
 ---
 
