@@ -20,6 +20,7 @@
 <p align="center">
   <a href="https://github.com/AryanRajMaurya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/AryanRajMaurya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AryanRajMaurya/shipfree"><img src="https://img.shields.io/badge/shipfree-4f46e5?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/aryanrajmauryavanshi"><img src="https://img.shields.io/badge/@aryanrajmauryavanshi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:aryanrajmauryavanshi@gmail.com"><img src="https://img.shields.io/badge/email-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/T2uZnVfQPw"><img src="https://img.shields.io/badge/izgiv-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -27,29 +28,24 @@
 
 ---
 
-### 🔧 What I'm building right now
+### 🧬 The Core Directive
+> "I may not know everything yet, but I trust myself to figure it out faster than most... and that's enough to keep me moving."
+
+I am a **Systems Builder** who turns scattered technologies into integrated machines. I work on real-time AI — voice agents, computer vision, streaming inference — and on the deployment layer that decides whether any of it actually reaches people.
+
+---
+
+### 🔧 Currently shipping
 
 #### [`shipfree`](https://github.com/AryanRajMaurya/shipfree) — deploy an AI service for $0
 
-A free tier is not a smaller paid tier. It is a different shape. Some work
-fits it beautifully — streaming a model response costs almost no CPU, because
-time spent waiting on a socket is not CPU time — and other work cannot fit
-at all.
+A free tier is not a smaller paid tier. It is a different shape. Some work fits it beautifully — streaming a model response costs almost no CPU, because time spent waiting on a socket is not CPU time — and other work cannot fit at all.
 
-`shipfree` is an Agent Skill that teaches any AI coding agent how to deploy
-an AI service under a zero-cost budget: the platform decision matrix, the
-limits that actually bite, the ten traps that account for most free-tier
-failures, and working templates.
+`shipfree` is an Agent Skill that teaches any AI coding agent how to deploy an AI service under a zero-cost budget: the platform decision matrix, the limits that actually bite, the traps that account for most free-tier failures, and working templates.
 
-What makes it different is that **every limit it quotes is verified by CI
-against the platform's own documentation source.** A weekly job re-reads the
-upstream docs, compares all 82 asserted values and opens an issue the moment
-one moves. A stale limit is worse than no limit, because it produces a
-deployment that looks correct and isn't.
+What makes it different is that **every limit it quotes is verified by CI against the platform's own documentation source.** A weekly job re-reads the upstream docs, compares all 82 asserted values and opens an issue the moment one moves. A stale limit is worse than no limit, because it produces a deployment that looks correct and isn't.
 
-One repository publishes to **twelve agent harnesses** — Claude Code, Codex,
-Cursor, Copilot, opencode, Kimi, Grok, Devin, Cline, Kiro, OpenClaw and the
-agents standard.
+One repository publishes to **twelve agent harnesses** — Claude Code, Codex, Cursor, Copilot, opencode, Kimi, Grok, Devin, Cline, Kiro, OpenClaw and the agents standard.
 
 ```bash
 /plugin marketplace add AryanRajMaurya/shipfree
@@ -67,14 +63,42 @@ Lead-authored, Springer-format, 2026.
 | **Coordinate Attention-Enhanced YOLO11 for Small UAV Surveillance** | +4.2% mAP@0.5, 15% fewer false positives on small, high-velocity UAVs |
 | **Spatio-Temporal Reasoning for Motorcycle Safety Compliance** | +8.7% temporal tracking accuracy, 45+ FPS real-time reporting |
 
-Both target the same failure mode: a single frame is not enough evidence.
-Objects are small, fast and frequently occluded, so the work is about
-retaining spatial detail where it matters and rejecting single-frame errors
-with temporal consensus.
+Both target the same failure mode: a single frame is not enough evidence. Objects are small, fast and frequently occluded, so the work is about retaining spatial detail where it matters and rejecting single-frame errors with temporal consensus.
 
 ---
 
-### 📦 Projects
+### 🌐 The IZGIV ecosystem — under remake
+
+The ecosystem is being rebuilt from the ground up, node by node, with the
+infrastructure finally matching the ambition. The nodes below are the ones
+already designed and being re-implemented; the live subdomains return as
+each one ships.
+
+| Node | Focus | Status |
+| :--- | :--- | :--- |
+| **shipfree** | Agent Skill for zero-cost AI deployment | **Live** |
+| **friday** | Agentic voice assistant, RAG-backed memory | Under remake |
+| **llama** | Self-hosted LLM API hosting | Under remake |
+| **groq** | Groq/Llama chat panel, paid access | Under remake |
+| **stream** | High-fidelity music streaming | Under remake |
+| **chat** | Social suite and media board | Under remake |
+| **image** | AI image generation hub | Under remake |
+| **wallpaper** | Premium HD wallpaper library | Under remake |
+| **desktop** | Futuristic OS simulation | Under remake |
+| **hymn** | Ad-free music alternative | Under remake |
+| **armage** | Desktop AI companion | Under remake |
+| **chatroom** | Real-time chat engine | Under remake |
+| **monarch** | Identity node | Planned |
+| **studio** | Multi-modal platform | Planned |
+| **moody** | AI mood analysis | Planned |
+| **mail** | Verbal mail server | Planned |
+
+The pattern across all of them is the same one `shipfree` encodes: cheap
+tiers are a different shape, and knowing the shape is the whole game.
+
+---
+
+### 📦 Open source
 
 | Project | What it is |
 | --- | --- |
