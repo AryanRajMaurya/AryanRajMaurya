@@ -8,89 +8,98 @@
       </linearGradient>
     </defs>
     <rect width="800" height="200" rx="40" fill="url(#grad1)" opacity="0.1" />
-    <text x="50%" y="55%" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="white" font-style="italic" letter-spacing="2">
-      BUILDER-INTEGRATOR HYBRID
+    <text x="50%" y="55%" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="900" fill="white" font-style="italic" letter-spacing="2">
+      SYSTEMS BUILDER
     </text>
     <text x="50%" y="75%" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" opacity="0.4" letter-spacing="8">
-      IZGIV MULTIVERSE ARCHITECT
+      APPLIED AI · REALTIME · OPEN SOURCE
     </text>
   </svg>
+</p>
 
 <p align="center">
   <a href="https://github.com/AryanRajMaurya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/AryanRajMaurya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/aryanrajmauryavanshi"><img src="https://img.shields.io/badge/@aryanrajmauryavanshi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://instagram.com/dark.shadows.before.u"><img src="https://img.shields.io/badge/@dark.shadows.before.u-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:aryanrajmauryavanshi@gmail.com"><img src="https://img.shields.io/badge/email-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/T2uZnVfQPw"><img src="https://img.shields.io/badge/izgiv-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧬 The Core Directive
-> "I may not know everything yet, but I trust myself to figure it out faster than most... and that’s enough to keep me moving."
+### 🔧 What I'm building right now
 
-I am a **Systems Builder** who turns scattered technologies into integrated machines. I specialize in the "Architecture of the Impossible"—wiring LLMs, Computer Vision (YOLOv11), and Real-time Media Pipelines into a unified **Izgiv Multiverse**.
+#### [`shipfree`](https://github.com/AryanRajMaurya/shipfree) — deploy an AI service for $0
+
+A free tier is not a smaller paid tier. It is a different shape. Some work
+fits it beautifully — streaming a model response costs almost no CPU, because
+time spent waiting on a socket is not CPU time — and other work cannot fit
+at all.
+
+`shipfree` is an Agent Skill that teaches any AI coding agent how to deploy
+an AI service under a zero-cost budget: the platform decision matrix, the
+limits that actually bite, the ten traps that account for most free-tier
+failures, and working templates.
+
+What makes it different is that **every limit it quotes is verified by CI
+against the platform's own documentation source.** A weekly job re-reads the
+upstream docs, compares all 82 asserted values and opens an issue the moment
+one moves. A stale limit is worse than no limit, because it produces a
+deployment that looks correct and isn't.
+
+One repository publishes to **twelve agent harnesses** — Claude Code, Codex,
+Cursor, Copilot, opencode, Kimi, Grok, Devin, Cline, Kiro, OpenClaw and the
+agents standard.
+
+```bash
+/plugin marketplace add AryanRajMaurya/shipfree
+/plugin install shipfree@shipfree
+```
+
+---
+
+### 🔬 Research
+
+Lead-authored, Springer-format, 2026.
+
+| Work | Result |
+| --- | --- |
+| **Coordinate Attention-Enhanced YOLO11 for Small UAV Surveillance** | +4.2% mAP@0.5, 15% fewer false positives on small, high-velocity UAVs |
+| **Spatio-Temporal Reasoning for Motorcycle Safety Compliance** | +8.7% temporal tracking accuracy, 45+ FPS real-time reporting |
+
+Both target the same failure mode: a single frame is not enough evidence.
+Objects are small, fast and frequently occluded, so the work is about
+retaining spatial detail where it matters and rejecting single-frame errors
+with temporal consensus.
+
+---
+
+### 📦 Projects
+
+| Project | What it is |
+| --- | --- |
+| **[`shipfree`](https://github.com/AryanRajMaurya/shipfree)** | Agent Skill for deploying AI services on free tiers, with machine-verified limits |
+| **[`plancks-constant-iitk`](https://github.com/AryanRajMaurya/plancks-constant-iitk)** | Planck's constant determination simulation for IIT Kanpur's Virtual Labs — a browser-based wire-drawing engine with sub-10 ms client-side calculation, deployed to a platform serving 50,000+ students |
+| **[`TheIZGIV`](https://github.com/AryanRajMaurya/TheIZGIV)** | Open-source Electron desktop music player (Apache 2.0): sidecar audio bridge, Gemini-generated playlists, 10-band EQ |
 
 ---
 
 ### 🛠️ Technical Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,electron,nodejs,flask,mongodb,redis,docker,vercel,aws,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,electron,nodejs,flask,fastapi,docker,cloudflare,linux,git,postgres,mongodb,redis" />
 </p>
 
-- **AI/ML**: YOLOv11, LiveKit, Edge TTS, n8n Automation, LangChain, RAG.
-- **Media**: FFmpeg, MoviePy, Librosa, WebRTC.
-- **Environment**: CachyOS + Hyprland (The Caelestia Rice) LINUX // WIN .
+- **AI/ML**: PyTorch, YOLOv8/v11, OpenCV, BLIP-2, coordinate attention, Albumentations
+- **Agents**: Model Context Protocol, LiveKit, Gemini Live, LangChain, RAG, Mem0, Chroma, n8n, MCP tool execution
+- **Realtime**: WebRTC, WebSockets, Durable Objects, streaming inference, 10-band WebAudio EQ
+- **Media**: FFmpeg, MoviePy, Librosa, Edge-TTS, beat-synchronous editing
+- **Edge & infra**: Cloudflare Workers, D1, KV, R2, Queues, Durable Objects, Docker, Wrangler, Vercel
+- **Languages**: Python, TypeScript, JavaScript, SQL, C/C++, HTML/CSS
+- **Environment**: CachyOS/Arch + Hyprland, Linux // Windows
 
 ---
 
-### 🌐 The IZGIV Ecosystem (16+ Nodes)
-| Platform | Focus | Status |
-| :--- | :--- | :--- |
-| **[friday.izgiv.tech](https://friday.izgiv.tech)** | Agentic Voice Assistant (RAG Memory) | **LATEST** 🔥 |
-| **[izgiv.tech](https://izgiv.tech)** | Main Hub | Active |
-| **[stream.izgiv.tech](https://stream.izgiv.tech)** | High-Fidelity Music Streaming | Maintenance |
-| **[llama.izgiv.tech](https://llama.izgiv.tech)** | Advanced LLM API Hosting | Production |
-| **[groq.izgiv.tech](https://groq.izgiv.tech)** | Groq/Llama AI Chat Panel | Paid |
-| **[image.izgiv.tech](https://image.izgiv.tech)** | AI Image Generation Hub | Online |
-| **[wallpaper.izgiv.tech](https://wallpaper.izgiv.tech)** | Premium HD Wallpapers | Free |
-| **[chat.izgiv.tech](https://chat.izgiv.tech)** | Advanced Social Suite | Active |
-| **[desktop.izgiv.tech](https://desktop.izgiv.tech)** | Futuristic OS Simulation | Portfolio |
-| **[hymn.izgiv.tech](https://hymn.izgiv.tech)** | Ad-free Music Alternative | DCMA Shutdown |
-| **[armage.izgiv.tech](https://armage.izgiv.tech)** | Custom Desktop AI Chatbot (PC) | Alpha |
-| **[Magic Moments](https://chat.izgiv.tech/magic-moments)** | Media Sharing Board | Beta |
-| **[chatroom.izgiv.tech](https://chatroom.izgiv.tech)** | Real-time Chat Engine | Development |
-| **[monarch.izgiv.tech](https://monarch.izgiv.tech)** | Upcoming Identity Node | Development |
-| **[studio.izgiv.tech](https://studio.izgiv.tech)** | Multi-Modal Platform | Deprecated |
-| **[Moody Manager](#)** | AI Mood Analysis | Legacy |
-| **[Custom Mail](#)** | Verbal Mail Server | Coming Soon |
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Mnp4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4eXgxZ3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx8G3p6dPi/giphy.gif" width="400" />
-  <br/>
-  <svg width="200" height="200" viewBox="0 0 100 100">
-    <circle cx="50" cy="50" r="40" stroke="#4f46e5" stroke-width="2" fill="transparent">
-      <animate attributeName="r" values="30;45;30" dur="3s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="50" cy="50" r="20" stroke="#818cf8" stroke-width="4" fill="transparent">
-      <animate attributeName="r" values="15;25;15" dur="2s" repeatCount="indefinite" />
-    </circle>
-    <path d="M50 30 L50 70 M30 50 L70 50" stroke="#c7d2fe" stroke-width="1" opacity="0.3">
-      <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="10s" repeatCount="indefinite" />
-    </path>
-  </svg>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.gif" width="100%" />
-  <br/>
-  <img src="https://github.com/clarksmalt/clarksmalt/raw/master/hero.gif" width="400" />
-</p>
-
----
-
-### 📊 SO Far...(Not GUD)
+### 📊 Stats
 <p align="center">
   <img src="https://img.shields.io/github/stars/AryanRajMaurya?style=for-the-badge&logo=github&color=4f46e5" />
   <img src="https://img.shields.io/github/followers/AryanRajMaurya?style=for-the-badge&logo=github&color=818cf8" />
@@ -104,24 +113,24 @@ I am a **Systems Builder** who turns scattered technologies into integrated mach
 ---
 
 ### 🤝 Connect
-- **Discord**: `@izgiv`
-- **Official GC**: [Join the Izgiv Community](https://discord.gg/T2uZnVfQPw)
-- **Profile Visits**: <img src="https://komarev.com/ghpvc/?username=AryanRajMaurya&color=blueviolet&style=flat-square" align="center" />
+- **LinkedIn**: [AryanRajMaurya](https://linkedin.com/in/AryanRajMaurya)
+- **Email**: [aryanrajmauryavanshi@gmail.com](mailto:aryanrajmauryavanshi@gmail.com)
+- **Discord**: `@izgiv` — [join the community](https://discord.gg/T2uZnVfQPw)
+- **Profile visits**: <img src="https://komarev.com/ghpvc/?username=AryanRajMaurya&color=blueviolet&style=flat-square" align="center" />
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.gif" width="100%" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+  <img alt="github-snake" src="./images/github-snake.svg" style="width: 100%;" />
 </picture>
 
 ---
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <i>"Designing the intelligence that designs the future."</i>
