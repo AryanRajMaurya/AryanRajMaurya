@@ -80,7 +80,7 @@ each one ships.
 | Node | Focus | Status |
 | :--- | :--- | :--- |
 | **shipfree** | Agent Skill for zero-cost AI deployment | **Live** |
-| **@TheIZGIV** | Autonomous content agent — writes, edits and publishes to YouTube, Instagram and Facebook | **Live** |
+| **@TheIZGIV** | Autonomous content agent — runs a YouTube, Instagram and Facebook channel with no human in the publishing loop | **Live** |
 | **friday** | Agentic voice assistant, RAG-backed memory | Under remake |
 | **llama** | Self-hosted LLM API hosting | Under remake |
 | **groq** | Groq/Llama chat panel, paid access | Under remake |
@@ -147,7 +147,8 @@ Everything else in the ecosystem is being rebuilt node by node.
 
 **[@TheIZGIV](https://www.youtube.com/@theizgiv)** is where the autoposter lives — an
 autonomous content agent that writes, edits and publishes to YouTube,
-Instagram and Facebook on its own.
+Instagram and Facebook with no human in the publishing loop. It runs the
+channel, not just the tooling.
 - **YouTube**: [@TheIZGIV](https://www.youtube.com/@theizgiv)
 - **Instagram**: [@TheIZGIV](https://www.instagram.com/theizgiv/)
 - **Facebook**: [@TheIZGIV](https://www.facebook.com/theizgiv)
