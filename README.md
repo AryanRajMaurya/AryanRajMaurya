@@ -105,6 +105,15 @@ tiers are a different shape, and knowing the shape is the whole game.
 ### 📦 Open source
 
 <!-- live:begin -->
+| Repository | What it is | Stars | Last push |
+| --- | --- | ---: | --- |
+| [`AryanRajMaurya`](https://github.com/AryanRajMaurya/AryanRajMaurya) | _no description yet_ | 2 | 2026-10-22 |
+| [`freetier`](https://github.com/AryanRajMaurya/freetier) | Will it fit? — the free-tier planner for AI services. Limits verified against upstream documentation by CI, not remembered. | 1 | 2026-10-22 |
+| [`linkedin-engine`](https://github.com/AryanRajMaurya/linkedin-engine) | Publish what you actually shipped. An Agent Skill for LinkedIn: drafts built from real GitHub artefacts, a quality gate that refuses posts which read as generated, and your profile managed from a versioned file. | 0 | 2026-10-22 |
+| [`linkedin-mcp`](https://github.com/AryanRajMaurya/linkedin-mcp) | A Model Context Protocol server for LinkedIn, with a quality gate that refuses posts which read as generated. Official API, no browser automation. | 0 | 2026-10-22 |
+| [`plancks-constant-iitk`](https://github.com/AryanRajMaurya/plancks-constant-iitk) | _no description yet_ | 0 | 2026-10-22 |
+| [`shipfree`](https://github.com/AryanRajMaurya/shipfree) | Deploy an AI service for $0 — streaming APIs, realtime agents, RAG endpoints and background jobs on free tiers, with machine-verified limits. | 0 | 2026-10-22 |
+| [`TheIZGIV`](https://github.com/AryanRajMaurya/TheIZGIV) | IZGIV is a premium, AI-powered desktop music player built for those who value minimalist aesthetics, high-fidelity audio, and a seamless cloud-local hybrid experience. | 5 | 2026-04-03 |
 <!-- live:end -->
 
 Everything else in the ecosystem is being rebuilt node by node.
