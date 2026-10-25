@@ -57,6 +57,14 @@ One repository publishes to **twelve agent harnesses** — Claude Code, Codex, C
 
 ---
 
+#### [`remotion-headless`](https://github.com/AryanRajMaurya/remotion-headless) — render Remotion where its CDN is blocked
+
+Remotion fetches Chrome Headless Shell from `remotion.media` on its first render. On a locked-down host that download dies with `read ECONNRESET`, and the CLI has no mirror flag. This wrapper resolves the same pinned Chrome for Testing build from `storage.googleapis.com`, passes `--browser-executable`, and ships the Debian image that still builds when Alpine's `apk` CDN is unreachable.
+
+It is three unrelated-looking failures with one shape: `npx remotion` resolving the core library (no `bin`) instead of `@remotion/cli`, the browser download, and `apk add: Permission denied`. CI renders a real 1080×1920 frame to prove the path.
+
+---
+
 ### 🔬 Research
 
 Lead-authored, Springer-format, 2026.
