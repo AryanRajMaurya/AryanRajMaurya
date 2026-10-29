@@ -65,19 +65,21 @@ It is three unrelated-looking failures with one shape: `npx remotion` resolving 
 
 ---
 
-#### [`izgiv`](https://aryanrajmaurya.github.io/izgiv/) — a music player that runs in a browser
+#### [`waxwing`](https://aryanrajmaurya.github.io/waxwing/) — a crate-digger that plays
 
 No backend, no accounts, no uploads. The files you already own get real playback: tags and covers parsed straight out of the files, a ten-band equalizer built on Web Audio, synced lyrics from any `.lrc`, artwork that decides the accent colour of the whole interface, and a spectrum analyser — all of it in a page that works offline.
 
 <p>
-  <a href="https://aryanrajmaurya.github.io/izgiv/">
-    <img src="https://raw.githubusercontent.com/AryanRajMaurya/izgiv/main/docs/player.png" alt="IZGIV player: cover art, spectrum, synced lyrics" width="640" />
+  <a href="https://aryanrajmaurya.github.io/waxwing/">
+    <img src="https://raw.githubusercontent.com/AryanRajMaurya/waxwing/main/docs/player.png" alt="Waxwing: cover art, spectrum, synced lyrics" width="640" />
   </a>
 </p>
 
-It also plays YouTube songs, inside [YouTube's own embed](https://github.com/AryanRajMaurya/izgiv#plays-youtube-inside-youtube) — the one playback route the publishers have actually agreed to. A pasted link joins the queue next to your local files with its real title and channel, and the transport, seek, volume and lyric clock all work on it. The equalizer deliberately does not apply to YouTube tracks; the audio never leaves YouTube's player, and the app says so instead of letting you push a slider that changes nothing.
+It finds music too: full-length concerts and Creative Commons records from the Internet Archive, and Apple's official 30-second previews of the mainstream catalogue with a link to buy — preview-source badges on every row. (Deliberately absent: scraping download rips. Everything here is performer-permitted, openly licensed, or granted by its publisher.)
 
-56 tests, and on every push CI boots the app in headless Chrome and refuses to deploy it if the first paint fails. **[Open it](https://aryanrajmaurya.github.io/izgiv/)** — if it looks stale, one hard reload outgrows the old cache.
+It also plays YouTube songs, inside [YouTube's own embed](https://github.com/AryanRajMaurya/waxwing#plays-youtube-inside-youtube) — the one playback route the publishers have actually agreed to. A pasted link joins the queue next to your local files with its real title and channel, and the transport, seek, volume and lyric clock all work on it. The equalizer deliberately does not apply to YouTube tracks; the audio never leaves YouTube's player, and the app says so instead of letting you push a slider that changes nothing.
+
+65 tests, and on every push CI boots the app in headless Chrome and — when the sandbox allows both search engines — drives a full search-and-cue pass with mocked APIs before it deploys. in headless Chrome and refuses to deploy it if the first paint fails. **[Open it](https://aryanrajmaurya.github.io/waxwing/)** — if it looks stale, one hard reload outgrows the old cache.
 
 ---
 
@@ -104,7 +106,7 @@ each one ships.
 | Node | Focus | Status |
 | :--- | :--- | :--- |
 | **shipfree** | Agent Skill for zero-cost AI deployment | **Live** |
-| **izgiv web player** | Music player in a browser — local files, ten-band EQ, synced lyrics, YouTube via its own embed | **[Live](https://aryanrajmaurya.github.io/izgiv/)** |
+| **waxwing** | Crate-digging browser player — your files, Apple previews, full archive.org recordings, YouTube via its own embed | **[Live](https://aryanrajmaurya.github.io/waxwing/)** |
 | **@TheIZGIV** | Autonomous content agent — runs a YouTube, Instagram and Facebook channel with no human in the publishing loop | **Live** |
 | **friday** | Agentic voice assistant, RAG-backed memory | Under remake |
 | **llama** | Self-hosted LLM API hosting | Under remake |
@@ -137,7 +139,7 @@ tiers are a different shape, and knowing the shape is the whole game.
 | [`linkedin-engine`](https://github.com/AryanRajMaurya/linkedin-engine) | Publish what you actually shipped. An Agent Skill for LinkedIn: drafts built from real GitHub artefacts, a quality gate that refuses posts which read as generated, and your profile managed from a versioned file. | 0 | 2026-10-22 |
 | [`linkedin-mcp`](https://github.com/AryanRajMaurya/linkedin-mcp) | A Model Context Protocol server for LinkedIn, with a quality gate that refuses posts which read as generated. Official API, no browser automation. | 0 | 2026-10-22 |
 | [`plancks-constant-iitk`](https://github.com/AryanRajMaurya/plancks-constant-iitk) | _no description yet_ | 0 | 2026-10-22 |
-| [`izgiv`](https://github.com/AryanRajMaurya/izgiv) | [A browser player for the music you already own](https://aryanrajmaurya.github.io/izgiv/) — real tags, covers, a ten-band EQ and synced lyrics, offline; YouTube songs play in YouTube's own embed beside your files. | 0 | 2026-10-28 |
+| [`waxwing`](https://github.com/AryanRajMaurya/waxwing) | [A browser player for the music you already own](https://aryanrajmaurya.github.io/waxwing/) — type a name and hear it: full archive.org concerts and CC records, Apple 30″ previews with buy links, your own files — one queue, offline, with EQ and synced lyrics. | 0 | 2026-10-28 |
 | [`shipfree`](https://github.com/AryanRajMaurya/shipfree) | Deploy an AI service for $0 — streaming APIs, realtime agents, RAG endpoints and background jobs on free tiers, with machine-verified limits. | 0 | 2026-10-22 |
 | [`TheIZGIV`](https://github.com/AryanRajMaurya/TheIZGIV) | IZGIV is a premium, AI-powered desktop music player built for those who value minimalist aesthetics, high-fidelity audio, and a seamless cloud-local hybrid experience. | 5 | 2026-04-03 |
 <!-- live:end -->
